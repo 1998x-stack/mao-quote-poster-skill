@@ -1,0 +1,14 @@
+{
+  "name": "mao-quote-poster",
+  "version": "1.0.0",
+  "canonical_skill_path": "skills/mao-quote-poster",
+  "supported_agent_targets": [
+    "agents",
+    "codex",
+    "claude",
+    "pi",
+    "opencode"
+  ],
+  "requires_image_generation_tool": true,
+  "optional_local_typesetting": "Python 3 + Pillow + CJK font"
+}
